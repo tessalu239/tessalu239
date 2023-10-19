@@ -4,7 +4,11 @@
 👀 I’m a student at Seneca College majored in Programing and interested in Full Stack position in the future<br>
 🌱 I’m currently trying to learn C/C++, MySQL, JS, HTML and CSS<br>
 📫 How to reach me: 
-<t>tessalu2399@gmail.com
+<ul>
+  <li>tessalu2399@gmail.com</li>
+  <li><img srchttps://zobika.com/wp-content/uploads/2020/06/instagram-1.png alt="igLogo"/> <a href="https://www.instagram.com/_lmt23.__/?next=%2F">_lmt23.__</a></li>
+</ul>
+
 
 
 <!---
