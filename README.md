@@ -6,7 +6,7 @@
 📫 How to reach me: 
 <ul>
   <li>tessalu2399@gmail.com</li>
-  <li><img src="https://zobika.com/wp-content/uploads/2020/06/instagram-1.png" alt="igLogo" size="20%"/> <a href="https://www.instagram.com/_lmt23.__/?next=%2F">_lmt23.__</a></li>
+  <li><img src="https://zobika.com/wp-content/uploads/2020/06/instagram-1.png" alt="igLogo" width="10px" height="10px"/> <a href="https://www.instagram.com/_lmt23.__/?next=%2F">_lmt23.__</a></li>
 </ul>
 
 
