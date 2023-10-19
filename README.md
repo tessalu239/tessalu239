@@ -1,4 +1,5 @@
-<h size="20"><strong>Hi, this is Tessa Lu</strong></h>
+<h size="20"><strong>Hi, this is Tessa Lu</strong></h><br><br>
+
 👋 Hi, I’m MINH THU LU, Call me Tessa for easier<br>
 👀 I’m a student at Seneca College majored in Programing and interested in Full Stack position in the future<br>
 🌱 I’m currently trying to learn C/C++, MySQL, JS, HTML and CSS<br>
