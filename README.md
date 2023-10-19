@@ -1,8 +1,10 @@
-<h>Hi, this is Tessa Lu</h>
+<h size="20"><strong>Hi, this is Tessa Lu</strong></h>
 👋 Hi, I’m MINH THU LU, Call me Tessa for easier<br>
-👀 I’m a student at Seneca College majored in Programing and interested in Full Stack position in the future
-🌱 I’m currently trying to learn C/C++, MySQL, JS, HTML and CSS
-📫 How to reach me 
+👀 I’m a student at Seneca College majored in Programing and interested in Full Stack position in the future<br>
+🌱 I’m currently trying to learn C/C++, MySQL, JS, HTML and CSS<br>
+📫 How to reach me: 
+<t>tessalu2399@gmail.com
+
 
 <!---
 tessalu239/tessalu239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
