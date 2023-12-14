@@ -1,8 +1,8 @@
 <h><strong>Hi, this is Tessa Lu</strong></h><br>
 
 👋 Hi, I’m MINH THU LU, call me Tessa for easier<br>
-👀 I’m a student at Seneca College majored in Programing and interested in Full Stack position in the future<br>
-🌱 I’m currently trying to learn C/C++, MySQL, JS, HTML and CSS<br>
+👀 I’m a student at Seneca College majored in Programing and interested in Full Stack Web Dev position in the future<br>
+🌱 I’m currently trying to learn front-end JavaScript, HTML and CSS<br>
 📫 How to reach me: 
 <ul>
   <li>tessalu2399@gmail.com</li>
