@@ -9,8 +9,9 @@
 <p align="left">
 </p>
 <ul>
+<li>🔗 Let's connect <a href="https://www.linkedin.com/in/tessalu/">Minh Thu Lu</a></li>
 <li>👨‍💻 All of my projects are available at <a href="https://porfolio-orpin-nine.vercel.app/">Tessa' personal website</a></li>
-<li>📫 How to reach me **tessalu2399@gmail.com**</li>
+<li>📫 How to reach me <strong>tessalu2399@gmail.com</strong></li>
 </ul>
   
 <hr data-v-3adfcc8d="" class="w-3 hidden sm:block border-primary">
