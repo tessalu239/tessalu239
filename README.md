@@ -1,6 +1,9 @@
- <img src="https://github.com/user-attachments/assets/8654c4bb-853d-4666-8193-81d1fb395e9c" width="100%" height="75%"/>
+<img src="https://github.com/user-attachments/assets/d71df090-95d2-4f82-9f16-9615bb5774db" width=100% style="clip-path: inset(100px 0 30px 0);">
 
-<h1 align="center" style="color:red;">Hi 👋, I'm Tessa Lu</h1>
+<div align="center">
+  <h1 style="color:blue;">Hi👋, I'm Tessa Lu</h1>
+</div>
+
 <p align="text-center">I am a current student in Computer Programming and Analysis ith a passion for front-end web development, I have gained knowledge and eixperience in various programming languages and technologies, including HTML, CSS, JavaScript, C/C++, Python, and TypeScript. Additionally, I am familiar with modern front-end frameworks and libraries like React.js, Vue.js, and Angular. I also work with tools such as Sass/SCSS and Bootstrap to enhance my web development projects</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tessalu239&label=Profile%20views&color=0e75b6&style=flat" alt="tessalu239" /> </p>
