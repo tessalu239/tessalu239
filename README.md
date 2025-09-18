@@ -25,5 +25,6 @@
 
 <hr data-v-3adfcc8d="" class="w-3 hidden sm:block border-primary">
 <ul>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tessalu239&show_icons=true&locale=en&layout=compact" alt="tessalu239" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tessalu239&show_icons=true&locale=en" alt="tessalu239" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tessalu239&show_icons=true&locale=en&layout=compact" alt="tessalu239" />
 </ul>
